@@ -10,17 +10,17 @@ public class Demo {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		Map<A, B> map = new HashMap<A, B>();
-		A a1 = new A("a", 10);
-		A a2 = new A("a", 12);
-		B b1 = new B("b", 10);
-		B b2 = new B("b", 11);
-		map.put(a1, b1);
-		map.put(a2, b2);
-		a1.setAge(12);
-		System.out.println(a1);
-		System.out.println(a2);
-		System.out.println(map.get(a1));
+//		Map<A, B> map = new HashMap<A, B>();
+//		A a1 = new A("a", 10);
+//		A a2 = new A("a", 12);
+//		B b1 = new B("b", 10);
+//		B b2 = new B("b", 11);
+//		map.put(a1, b1);
+//		map.put(a2, b2);
+//		a1.setAge(12);
+//		System.out.println(a1);
+//		System.out.println(a2);
+//		System.out.println(map.get(a1));
 	}
 
 }
